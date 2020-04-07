@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: LifeSG's Covid-19 Guide
-        subtitle: Subtitle Text  
+        title: Home is Singapore
+        subtitle:Be empowered as we stand in solidarity.  
         background: /images/hero_banner.jpg
         button: Contact Us
         url: /contact-us/
