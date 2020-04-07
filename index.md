@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: LifeSG's Covid-19 Guide
+        subtitle: Subtitle Text  
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
@@ -27,7 +27,7 @@ sections:
               url: /privacy/
     - infobar:
         title: Infobar title
-        subtitle: Subtitle
+        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
