@@ -60,7 +60,7 @@ sections:
         subtitle: Core Values
         description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
         button: Learn More
-        url: /core-values/
+        url: /covid/resiliencebudget
         image: /images/resilience-budget-r.jpg
         alt: Members of the Ministry of ABC in suits
     - infopic:
