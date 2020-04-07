@@ -32,7 +32,7 @@ sections:
         url: /faq/
     - infopic:
         title: Latest Numbers & Breakdown
-        subtitle: Covid-19
+        subtitle: 
         description: Summary of local situation with daily and total statistics including active, discharged, and local vs imported cases. Refreshed daily.
         button: Find Out More
         url: /covid/page1/
@@ -48,7 +48,7 @@ sections:
         alt: Members of the Ministry of ABC in suits
     - infopic:
         title: Our Digital Response
-        subtitle: Core Values
+        subtitle: 
         description: Information at your fingertips. From mask collection, PHPC network, community-driven contact tracing to an online symptom checker and more. 
         button: Explore
         url: /covid/digitalresponse
@@ -56,7 +56,7 @@ sections:
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
         title: The Resilience Budget
-        subtitle: Core Values
+        subtitle: 
         description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
         button: Learn More
         url: /covid/resiliencebudget
@@ -64,7 +64,7 @@ sections:
         alt: Members of the Ministry of ABC in suits
     - infopic:
         title: Shop Online & Have Essentials Delivered
-        subtitle: Core Values
+        subtitle: 
         description: An exhaustive list of 37 grocers including halal options. Stay safe and shop responsibly online.
         button: Learn More
         url: https://blog.seedly.sg/online-grocery-platforms-free-delivery-timing-promos/
@@ -72,7 +72,7 @@ sections:
         alt: Members of the Ministry of ABC in suits
     - infopic:
         title: Support Community Efforts as One
-        subtitle: Singaporeans Unite! We Are #SGUNITED.
+        subtitle: 
         description: Read inspiring stories of unsung heroes and be a part of the movement to provide relief and support in community-led initiatives. 
         button: Find Out How
         url: /covid/communityefforts
