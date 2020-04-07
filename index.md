@@ -28,7 +28,7 @@ sections:
     - infobar:
         title: Knowledge makes the difference against COVID-19. Stay Informed. Stay Safe.
         description: LifeSG brings you curated COVID-19 updates from trusted sources. Get a regular digest of relief measures, tools and resources, community stories and more.
-        button: /Find Out More
+        button: Find Out More
         url: /faq/
     - infopic:
         title: Latest Numbers & Breakdown
