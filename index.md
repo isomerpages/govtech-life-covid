@@ -48,15 +48,15 @@ sections:
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
     - infopic:
-        title: Integrity
+        title: Our Digital Response
         subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
+        description: Information at your fingertips. From mask collection, PHPC network, community-driven contact tracing to an online symptom checker and more. 
+        button: Explore
         url: /core-values/
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
-        title: Professionalism
+        title: The Resilience Budget
         subtitle: Core Values
         description: We strive to deliver work of the highest calibre
         button: Learn More
@@ -66,17 +66,17 @@ sections:
     - infopic:
         title: Integrity
         subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
+        description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
+        button: Find Out More
         url: /core-values/
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
-        title: Professionalism
+        title: Shop Online & Have Essentials Delivered
         subtitle: Core Values
         description: We strive to deliver work of the highest calibre
-        button: Learn More
-        url: /core-values/
+        button: Find Out More
+        url: https://blog.seedly.sg/online-grocery-platforms-free-delivery-timing-promos/
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
     - infopic:
