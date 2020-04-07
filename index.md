@@ -52,7 +52,7 @@ sections:
         subtitle: Core Values
         description: Information at your fingertips. From mask collection, PHPC network, community-driven contact tracing to an online symptom checker and more. 
         button: Explore
-        url: /core-values/
+        url: /digitalresponse
         image: /images/digital-response-r.jpg
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
