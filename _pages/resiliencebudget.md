@@ -1,5 +1,5 @@
 ---
-title: The Resilience Budget
+title: The Unity, Resilience & Solidarity Budget
 permalink: /covid/resiliencebudget
 ---
 
