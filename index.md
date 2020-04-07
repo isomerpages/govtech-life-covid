@@ -31,11 +31,11 @@ sections:
         button: Find Out More
         url: /faq/
     - infopic:
-        title: Latest Numbers & Breakdown
+        title: Latest Numbers
         subtitle: 
-        description: Summary of local situation with daily and total statistics including active, discharged, and local vs imported cases. Refreshed daily.
+        description: Updates on the local situation with daily and overall statistics including active, discharged, critical and imported cases. Refreshed daily.
         button: Find Out More
-        url: /covid/page1/
+        url: /covid/latestnumbers/
         image: /images/covid-numbers-r.jpg
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
