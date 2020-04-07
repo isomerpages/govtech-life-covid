@@ -9,7 +9,7 @@ sections:
     - hero:
         title: LifeSG's Covid-19 Guide
         subtitle: Subtitle Text  
-        background: /images/hero-banner.png
+        background: /images/hero_banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
@@ -45,7 +45,7 @@ sections:
         description: A library of helpful content and guidelines from posters, videos, to sector-specific advisories and more. Knowing what to do can help you and your loved ones stay safer.
         button: Learn More
         url: /core-values/
-        image: /images/professionalism.png
+        image: /images/health-resources-r.jpg
         alt: Members of the Ministry of ABC in suits
     - infopic:
         title: Our Digital Response
@@ -53,7 +53,7 @@ sections:
         description: Information at your fingertips. From mask collection, PHPC network, community-driven contact tracing to an online symptom checker and more. 
         button: Explore
         url: /core-values/
-        image: /images/integrity.png
+        image: /images/digital-response-r.jpg
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
         title: The Resilience Budget
@@ -61,7 +61,7 @@ sections:
         description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
         button: Learn More
         url: /core-values/
-        image: /images/professionalism.png
+        image: /images/resilience-budget-r.jpg
         alt: Members of the Ministry of ABC in suits
     - infopic:
         title: Shop Online & Have Essentials Delivered
@@ -69,6 +69,6 @@ sections:
         description: An exhaustive list of 37 grocers including halal options. Stay safe and shop responsibly online.
         button: Learn More
         url: https://blog.seedly.sg/online-grocery-platforms-free-delivery-timing-promos/
-        image: /images/professionalism.png
+        image: /images/shoponline-essentials-r.jpg
         alt: Members of the Ministry of ABC in suits
 ---
