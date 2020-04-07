@@ -63,7 +63,7 @@ sections:
         url: /core-values/
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
-     - infopic:
+    - infopic:
         title: Shop Online & Have Essentials Delivered
         subtitle: Core Values
         description: We strive to deliver work of the highest calibre
