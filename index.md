@@ -32,10 +32,10 @@ sections:
         button: Button text
         url: /faq/
     - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
+        title: Latest Numbers & Breakdown
+        subtitle: Covid-19
+        description: Summary of local situation with daily and total statistics including active, discharged, and local vs imported cases. Refreshed daily.
+        button: Find Out More
         url: /covid/page1/
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
