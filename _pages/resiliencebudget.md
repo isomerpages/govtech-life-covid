@@ -11,6 +11,6 @@ Also known as the supplementary budget, this stimulus package provides economic 
 
 2. All measures in the Resilience Budget summarised. Additional support for every Singaporean.  
 
-3. Singapore's Resilience Budget (PDF). <a href="https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_supplementary_budget_booklet_eng.PDF">Click here</a>to download.
+3. Singapore's Resilience Budget (PDF). <a href="https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_supplementary_budget_booklet_eng.PDF">Click here</a> to download.
 
-4. Support Measures for Taxpayers by IRAS <a href="https://www.iras.gov.sg/irashome/News-and-Events/Singapore-Budget/Resilience-Budget---Support-Measures-for-Taxpayers/">Click here</a>to download.
+4. Support Measures for Taxpayers by IRAS <a href="https://www.iras.gov.sg/irashome/News-and-Events/Singapore-Budget/Resilience-Budget---Support-Measures-for-Taxpayers/">Click here</a> to download.
