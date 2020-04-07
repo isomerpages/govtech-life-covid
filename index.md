@@ -37,7 +37,7 @@ sections:
         description: Summary of local situation with daily and total statistics including active, discharged, and local vs imported cases. Refreshed daily.
         button: Find Out More
         url: /covid/page1/
-        image: /images/integrity.png
+        image: /images/covid-numbers-r.jpg
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
         title: Health Information & Resources
