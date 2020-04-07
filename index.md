@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Home is Singapore
-        subtitle:Be empowered as we stand in solidarity.  
+        subtitle: Be empowered as we stand in solidarity.  
         background: /images/hero_banner.jpg
         button: Contact Us
         url: /contact-us/
@@ -26,10 +26,10 @@ sections:
               description: Page C is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
+        title: Knowledge makes the difference against COVID-19. Stay Informed. Stay Safe.
         subtitle: Subtitle text
-        description: About a sentence worth of description here
-        button: Button text
+        description: LifeSG brings you curated COVID-19 updates from trusted sources. Get a regular digest of relief measures, tools and resources, community stories and more.
+        button: /covid
         url: /faq/
     - infopic:
         title: Latest Numbers & Breakdown
