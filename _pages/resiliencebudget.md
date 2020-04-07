@@ -3,7 +3,7 @@ title: The Unity, Resilience & Solidarity Budget
 permalink: /covid/resiliencebudget
 ---
 
-### **Resilience Budget**
+### **The Unity, Resilience & Solidarity Budget**
 
 Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
 
