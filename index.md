@@ -66,8 +66,8 @@ sections:
     - infopic:
         title: Shop Online & Have Essentials Delivered
         subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
-        button: Find Out More
+        description: An exhaustive list of 37 grocers including halal options. Stay safe and shop responsibly online.
+        button: Learn More
         url: https://blog.seedly.sg/online-grocery-platforms-free-delivery-timing-promos/
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
