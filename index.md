@@ -33,16 +33,16 @@ sections:
         url: /faq/
     - infopic:
         title: Latest Numbers & Breakdown
-        subtitle: Covid-19
+        subtitle: 
         description: Summary of local situation with daily and total statistics including active, discharged, and local vs imported cases. Refreshed daily.
         button: Find Out More
         url: /covid/page1/
         image: /images/integrity.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
-        title: Professionalism
-        subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
+        title: Health Information & Resources
+        subtitle: 
+        description: A library of helpful content and guidelines from posters, videos, to sector-specific advisories and more. Knowing what to do can help you and your loved ones stay safer.
         button: Learn More
         url: /core-values/
         image: /images/professionalism.png
