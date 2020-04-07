@@ -70,4 +70,12 @@ sections:
         url: https://blog.seedly.sg/online-grocery-platforms-free-delivery-timing-promos/
         image: /images/shoponline-essentials-r.jpg
         alt: Members of the Ministry of ABC in suits
+    - infopic:
+        title: Support Community Efforts as One
+        subtitle: Singaporeans Unite! We Are #SGUNITED.
+        description: Read inspiring stories of unsung heroes and be a part of the movement to provide relief and support in community-led initiatives. 
+        button: Find Out How
+        url: /covid/communityefforts
+        image: /images/sgunited-community-r.jpg
+        alt: Members of the Ministry of ABC in suits        
 ---
