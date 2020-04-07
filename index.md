@@ -41,7 +41,7 @@ sections:
     - infopic:
         title: Health Information & Resources
         subtitle: 
-        description: A library of helpful content and guidelines from posters, videos, to sector-specific advisories and more. Knowing what to do can help you and your loved ones stay safer.
+        description: A library of helpful guidelines and advisories. Knowing what to do can help you and your loved ones stay safer.
         button: Learn More
         url: /core-values/
         image: /images/health-resources-r.jpg
