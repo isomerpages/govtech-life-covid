@@ -33,7 +33,7 @@ sections:
         url: /faq/
     - infopic:
         title: Latest Numbers & Breakdown
-        subtitle: 
+        subtitle: Covid-19
         description: Summary of local situation with daily and total statistics including active, discharged, and local vs imported cases. Refreshed daily.
         button: Find Out More
         url: /covid/page1/
@@ -58,41 +58,17 @@ sections:
     - infopic:
         title: The Resilience Budget
         subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
+        description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
         button: Learn More
         url: /core-values/
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
-    - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
-        button: Find Out More
-        url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
-    - infopic:
+     - infopic:
         title: Shop Online & Have Essentials Delivered
         subtitle: Core Values
         description: We strive to deliver work of the highest calibre
         button: Find Out More
         url: https://blog.seedly.sg/online-grocery-platforms-free-delivery-timing-promos/
-        image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
-    - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
-    - infopic:
-        title: Professionalism
-        subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
-        button: Learn More
-        url: /core-values/
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
 ---
