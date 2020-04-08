@@ -40,7 +40,7 @@ sections:
         subtitle: 
         description: A library of helpful guidelines and advisories. Knowing what to do can help you and your loved ones stay safer.
         button: Explore
-        url: /healthinformationresources
+        url: /covid/healthinformationresources
         image: /images/health-resources-f.jpg
         alt: healthinformation
     - infopic:
