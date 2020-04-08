@@ -35,7 +35,7 @@ sections:
         subtitle: 
         description: Updates on the local situation with daily and overall statistics including active, discharged, critical and imported cases. Refreshed daily.
         button: Find Out More
-        url: /covid/latestnumbers/
+        url: https://www.gov.sg/features/covid-19
         image: /images/covid-numbers-r.jpg
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
