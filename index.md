@@ -68,13 +68,13 @@ sections:
         image: /images/shoponline-essentials-f.jpg
         alt: shoponline
     - infopic:
-        title: 2
+        title: Keeping Preschoolers & Students Safe
         subtitle: 
-        description: List of grocers, pharmacies and food delivery services, including halal options. Stay safe and shop responsibly online.
+        description: Advisories and guidelines to safeguard the well-being of every child in school. Find support to full home-based learning and answers to exams and equipment rental.
         button: Find Out More
         url: /covid/shoponline
-        image: /images/shoponline-essentials-f.jpg
-        alt: shoponline
+        image: /images/education-f.jpg
+        alt: education
     - infopic:
         title: Support Community Efforts as One
         subtitle: 
