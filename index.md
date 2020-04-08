@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Home is Singapore 
-        background: /images/hero_banner.jpg
+        background: /images/heroimage.jpg
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
@@ -33,47 +33,46 @@ sections:
         description: Updates on the local situation with daily and overall statistics including active, discharged, critical and imported cases. Refreshed daily.
         button: Find Out More
         url: https://www.gov.sg/features/covid-19
-        image: /images/covid-numbers-r.jpg
-        alt: Members of the Ministry of ABC shaking hands
+        image: /images/covid-numbers-f.jpg
+        alt: 
     - infopic:
         title: Health Information & Resources
         subtitle: 
         description: A library of helpful guidelines and advisories. Knowing what to do can help you and your loved ones stay safer.
-        button: Learn More
-        url: /core-values/
-        image: /images/health-resources-r.jpg
-        alt: Members of the Ministry of ABC in suits
+        button: Explore
+        url: /healthinformationresources/
+        image: /images/health-resources-f.jpg
+        alt: 
     - infopic:
         title: Our Digital Response
         subtitle: 
-        description: Information at your fingertips. From mask collection, PHPC network, community-driven contact tracing to an online symptom checker and more. 
+        description: Information at your fingertips. From mask collection to finding a doctor to an online symptom checker and more. 
         button: Explore
         url: /covid/digitalresponse
-        image: /images/digital-response-r.jpg
-        alt: Members of the Ministry of ABC shaking hands
+        image: /images/digital-response-f.jpg
+        alt: 
     - infopic:
-        title: The Unity, Resilience & Solidarity Budget
+        title: The Unity, Resilience & Solidarity Budgets
         subtitle: 
-        description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
+        description: These 3 Budgets all build upon and reinforce each other. Together, they provide economic measures and additional support for every Singaporean to ride through COVID-19.
         button: Learn More
         url: /covid/resiliencebudget
-        image: /images/resilience-budget-r.jpg
-        alt: Members of the Ministry of ABC in suits
+        image: /images/sgbudgets-f.jpg
+        alt: 
     - infopic:
         title: Shop Online & Have Essentials Delivered
         subtitle: 
-        description: An exhaustive list of 37 grocers including halal options. Stay safe and shop responsibly online.
+        description: List of grocers, pharmacies and food delivery services, including halal options. Stay safe and shop responsibly online.
         button: Find Out More
         url: /covid/shoponline
-        image: /images/shoponline-essentials-r.jpg
-        alt: Members of the Ministry of ABC in suits
+        image: /images/shoponline-essentials-f.jpg
+        alt: 
     - infopic:
         title: Support Community Efforts as One
         subtitle: 
         description: Read inspiring stories of unsung heroes and be a part of the movement to provide relief and support in community-led initiatives. 
         button: Find Out How
         url: /covid/communityefforts
-        image: /images/sgunited-community-r.jpg
-        alt: Members of the Ministry of ABC in suits
-        image: /images/sgunited-community-r.jpg
+        image: /images/sgunited-community-f.jpg
+        alt: 
 ---
