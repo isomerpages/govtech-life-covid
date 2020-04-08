@@ -34,7 +34,7 @@ sections:
         button: Find Out More
         url: https://www.gov.sg/features/covid-19
         image: /images/covid-numbers-f.jpg
-        alt: 
+        alt: covid19
     - infopic:
         title: Health Information & Resources
         subtitle: 
@@ -42,7 +42,7 @@ sections:
         button: Explore
         url: /healthinformationresources/
         image: /images/health-resources-f.jpg
-        alt: 
+        alt: healthinformation
     - infopic:
         title: Our Digital Response
         subtitle: 
@@ -50,7 +50,7 @@ sections:
         button: Explore
         url: /covid/digitalresponse
         image: /images/digital-response-f.jpg
-        alt: 
+        alt: digitalresponse
     - infopic:
         title: The Unity, Resilience & Solidarity Budgets
         subtitle: 
@@ -58,7 +58,7 @@ sections:
         button: Learn More
         url: /covid/resiliencebudget
         image: /images/sgbudgets-f.jpg
-        alt: 
+        alt: sgbudgets
     - infopic:
         title: Shop Online & Have Essentials Delivered
         subtitle: 
@@ -66,7 +66,7 @@ sections:
         button: Find Out More
         url: /covid/shoponline
         image: /images/shoponline-essentials-f.jpg
-        alt: 
+        alt: shoponline
     - infopic:
         title: Support Community Efforts as One
         subtitle: 
@@ -74,5 +74,5 @@ sections:
         button: Find Out How
         url: /covid/communityefforts
         image: /images/sgunited-community-f.jpg
-        alt: 
+        alt: sgunited
 ---
