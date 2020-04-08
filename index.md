@@ -8,9 +8,9 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Home is Singapore2
-        subtitle: Default  
+        subtitle:   
         background: /images/hero_banner.jpg
-        button: Default
+        button: 
         url: 
         key_highlights:
             - title: Highlight A
