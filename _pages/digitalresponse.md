@@ -5,6 +5,8 @@ permalink: /covid/digitalresponse/
 
 ### **Our Digital Response**
 
+Information at your fingertips. From mask collection, PHPC network, community-driven contact tracing to an online symptom checker and more.
+
 1. Collect your reusable masks from 5 to 12 April 2020. <a href="https://www.maskgowhere.gov.sg/">Here's how</a>.
 
 2. <a href="https://www.tracetogether.gov.sg/">Join us</a> in stopping the spread of COVID-19 through community-driven contact tracing.
