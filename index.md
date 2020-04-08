@@ -1,3 +1,5 @@
+'''{r echo=FALSE}
+
 ---
 layout: homepage
 title: Isomer Site
@@ -96,3 +98,5 @@ sections:
         image: /images/sgunited-community-r.jpg
         alt: 
 ---
+
+'''
