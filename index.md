@@ -75,7 +75,6 @@ sections:
         url: /covid/shoponline
         image: /images/shoponline-essentials-f.jpg
         alt: shoponline
-
     - infopic:
         title: Support Community Efforts as One
         subtitle: 
