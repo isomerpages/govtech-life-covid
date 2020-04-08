@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Home is Singapore2
-        subtitle:   
+        title: Home is Singapore
+        subtitle: 
         background: /images/hero_banner.jpg
         button: 
         url: 
