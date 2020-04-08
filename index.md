@@ -55,7 +55,7 @@ sections:
         image: /images/digital-response-r.jpg
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
-        title: The Resilience Budget
+        title: The Unity, Resilience & Solidarity Budget
         subtitle: 
         description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
         button: Learn More
@@ -66,7 +66,7 @@ sections:
         title: Shop Online & Have Essentials Delivered
         subtitle: 
         description: An exhaustive list of 37 grocers including halal options. Stay safe and shop responsibly online.
-        button: Learn More
+        button: Find Out More
         url: /covid/shoponline
         image: /images/shoponline-essentials-r.jpg
         alt: Members of the Ministry of ABC in suits
@@ -77,5 +77,6 @@ sections:
         button: Find Out How
         url: /covid/communityefforts
         image: /images/sgunited-community-r.jpg
-        alt: Members of the Ministry of ABC in suits        
+        alt: Members of the Ministry of ABC in suits
+        image: /images/sgunited-community-r.jpg
 ---
