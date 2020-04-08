@@ -86,8 +86,7 @@ sections:
         button: Find Out How
         url: /covid/bordercontrol
         image: /images/sgunited-community-r.jpg
-        alt: 
-        image: /images/sgunited-community-r.jpg
+        alt:
     - infopic:
         title: Support Community Efforts as One
         subtitle: 
@@ -96,5 +95,4 @@ sections:
         url: /covid/communityefforts
         image: /images/sgunited-community-r.jpg
         alt: 
-        image: /images/sgunited-community-r.jpg
 ---
