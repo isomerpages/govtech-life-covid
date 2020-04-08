@@ -64,7 +64,7 @@ sections:
         subtitle: 
         description: List of grocers, pharmacies and food delivery services, including halal options. Stay safe and shop responsibly online.
         button: Find Out More
-        url: /covid/shoponline
+        url: https://www.imda.gov.sg/for-community/We-Go-Digital#Buyonline
         image: /images/shoponline-essentials-f.jpg
         alt: shoponline
     - infopic:
