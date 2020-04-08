@@ -10,7 +10,6 @@ sections:
         title: Home is Singapore
         subtitle: Be empowered as we stand in solidarity.  
         background: /images/hero_banner.jpg
-        button: Contact Us
         url: /contact-us/
         key_highlights:
             - title: Highlight A
