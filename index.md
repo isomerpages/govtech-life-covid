@@ -72,9 +72,17 @@ sections:
         subtitle: 
         description: Advisories and guidelines to safeguard the well-being of every child in school. Find support to full home-based learning and answers to exams and equipment rental.
         button: Find Out More
-        url: /covid/shoponline
+        url: /covid/students
         image: /images/education-f.jpg
-        alt: education
+        alt: education        
+    - infopic:
+        title: Border Control & Precautionary Measures
+        subtitle: 
+        description: Everything you need to know about entering and departing Singapore. For returning residents, permit holders, visitors and overseas Singaporeans.
+        button: Find Out More
+        url: /covid/bordercontrol
+        image: /images/bordercontrol-f.jpg
+        alt: bordercontrol        
     - infopic:
         title: Support Community Efforts as One
         subtitle: 
