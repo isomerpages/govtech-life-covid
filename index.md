@@ -8,10 +8,10 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Home is Singapore
-        subtitle: Be empowered as we stand in solidarity.  
+        subtitle:   
         background: /images/hero_banner.jpg
-        button: Contact Us
-        url: /contact-us/
+        button: 
+        url: 
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
@@ -26,10 +26,11 @@ sections:
               description: Page C is important too
               url: /privacy/
     - infobar:
-        title: Knowledge makes the difference against COVID-19. Stay Informed. Stay Safe.
+        title: Knowledge makes the difference against COVID-19. 
+        Stay Informed. Stay Safe.
         description: Get a regular digest of relief measures, tools and resources, community stories and more.
-        button: Find Out More
-        url: /faq/
+        button: 
+        url:
     - infopic:
         title: Latest Numbers
         subtitle: 
@@ -37,39 +38,56 @@ sections:
         button: Find Out More
         url: https://www.gov.sg/features/covid-19
         image: /images/covid-numbers-r.jpg
-        alt: Members of the Ministry of ABC shaking hands
+        alt: 
     - infopic:
         title: Health Information & Resources
         subtitle: 
         description: A library of helpful guidelines and advisories. Knowing what to do can help you and your loved ones stay safer.
-        button: Learn More
-        url: /core-values/
+        button: Explore
+        url: /healthinformationresources
         image: /images/health-resources-r.jpg
-        alt: Members of the Ministry of ABC in suits
+        alt: 
     - infopic:
         title: Our Digital Response
         subtitle: 
-        description: Information at your fingertips. From mask collection, PHPC network, community-driven contact tracing to an online symptom checker and more. 
+        description: Information at your fingertips. From mask collection to finding a doctor to an online symptom checker and more. 
         button: Explore
         url: /covid/digitalresponse
         image: /images/digital-response-r.jpg
-        alt: Members of the Ministry of ABC shaking hands
+        alt: 
     - infopic:
         title: The Unity, Resilience & Solidarity Budget
         subtitle: 
-        description: Also known as the supplementary budget, this stimulus package provides economic measures and additional support for every Singaporean to ride through COVID-19.
-        button: Learn More
+        description: These 3 Budgets all build upon and reinforce each other. Together, they provide economic measures and additional support for every Singaporean to ride through COVID-19.
+        button: Find Out More
         url: /covid/resiliencebudget
         image: /images/resilience-budget-r.jpg
-        alt: Members of the Ministry of ABC in suits
+        alt: 
     - infopic:
         title: Shop Online & Have Essentials Delivered
         subtitle: 
-        description: An exhaustive list of 37 grocers including halal options. Stay safe and shop responsibly online.
+        description: List of grocers, pharmacies and food delivery services, including halal options. Stay safe and shop responsibly online.
         button: Find Out More
         url: /covid/shoponline
         image: /images/shoponline-essentials-r.jpg
-        alt: Members of the Ministry of ABC in suits
+        alt: 
+    - infopic:
+        title: Keeping Preschoolers & Students Safe
+        subtitle: 
+        description: Advisories and guidelines to safeguard the well-being of every child in school. Find support to full home-based learning and answers to precautionary measures, exams and equipment loaning.
+        button: Find Out More
+        url: /covid/students
+        image: /images/shoponline-essentials-r.jpg
+        alt: 
+    - infopic:
+        title: Border Control & Precautionary Measures
+        subtitle: 
+        description: Everything you need to know about entering and departing Singapore. For returning residents, permit holders, visitors and overseas Singaporeans.
+        button: Find Out How
+        url: /covid/bordercontrol
+        image: /images/sgunited-community-r.jpg
+        alt: 
+        image: /images/sgunited-community-r.jpg
     - infopic:
         title: Support Community Efforts as One
         subtitle: 
@@ -77,6 +95,6 @@ sections:
         button: Find Out How
         url: /covid/communityefforts
         image: /images/sgunited-community-r.jpg
-        alt: Members of the Ministry of ABC in suits
+        alt: 
         image: /images/sgunited-community-r.jpg
 ---
