@@ -7,10 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Home is Singapore
-        subtitle: Be empowered as we stand in solidarity.  
+        title: Home is Singapore 
         background: /images/hero_banner.jpg
-        url: /contact-us/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
