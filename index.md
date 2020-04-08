@@ -27,7 +27,7 @@ sections:
               url: /privacy/
     - infobar:
         title: Knowledge makes the difference against COVID-19. Stay Informed. Stay Safe.
-        description: LifeSG brings you curated COVID-19 updates from trusted sources. Get a regular digest of relief measures, tools and resources, community stories and more.
+        description: Get a regular digest of relief measures, tools and resources, community stories and more.
         button: Find Out More
         url: /faq/
     - infopic:
@@ -67,7 +67,7 @@ sections:
         subtitle: 
         description: An exhaustive list of 37 grocers including halal options. Stay safe and shop responsibly online.
         button: Learn More
-        url: https://blog.seedly.sg/online-grocery-platforms-free-delivery-timing-promos/
+        url: https://www.imda.gov.sg/for-community/We-Go-Digital#Buyonline
         image: /images/shoponline-essentials-r.jpg
         alt: Members of the Ministry of ABC in suits
     - infopic:
