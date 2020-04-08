@@ -67,7 +67,7 @@ sections:
         subtitle: 
         description: An exhaustive list of 37 grocers including halal options. Stay safe and shop responsibly online.
         button: Learn More
-        url: https://www.imda.gov.sg/for-community/We-Go-Digital#Buyonline
+        url: /covid/shoponline
         image: /images/shoponline-essentials-r.jpg
         alt: Members of the Ministry of ABC in suits
     - infopic:
