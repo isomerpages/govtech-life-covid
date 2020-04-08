@@ -24,7 +24,7 @@ sections:
               url: /privacy/
     - infobar:
         title: Knowledge makes the difference against COVID-19. 
-        Stay Informed. Stay Safe.
+Stay Informed. Stay Safe.
         description: Get a regular digest of relief measures, tools and resources, community stories and more.
         button: Find Out More
         url: /faq/
