@@ -71,6 +71,5 @@ sections:
         url: /covid/shoponline
         image: /images/shoponline-essentials-r.jpg
         alt: 
-    - infopic:
 ---
 
