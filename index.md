@@ -68,6 +68,15 @@ sections:
         image: /images/shoponline-essentials-f.jpg
         alt: shoponline
     - infopic:
+        title: 2
+        subtitle: 
+        description: List of grocers, pharmacies and food delivery services, including halal options. Stay safe and shop responsibly online.
+        button: Find Out More
+        url: /covid/shoponline
+        image: /images/shoponline-essentials-f.jpg
+        alt: shoponline
+
+    - infopic:
         title: Support Community Efforts as One
         subtitle: 
         description: Read inspiring stories of unsung heroes and be a part of the movement to provide relief and support in community-led initiatives. 
