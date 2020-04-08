@@ -1,5 +1,3 @@
-'''{r echo=FALSE}
-
 ---
 layout: homepage
 title: Isomer Site
@@ -74,29 +72,5 @@ sections:
         image: /images/shoponline-essentials-r.jpg
         alt: 
     - infopic:
-        title: Keeping Preschoolers & Students Safe
-        subtitle: 
-        description: Advisories and guidelines to safeguard the well-being of every child in school. Find support to full home-based learning and answers to precautionary measures, exams and equipment loaning.
-        button: Find Out More
-        url: /covid/students
-        image: /images/shoponline-essentials-r.jpg
-        alt: 
-    - infopic:
-        title: Border Control & Precautionary Measures
-        subtitle: 
-        description: Everything you need to know about entering and departing Singapore. For returning residents, permit holders, visitors and overseas Singaporeans.
-        button: Find Out How
-        url: /covid/bordercontrol
-        image: /images/sgunited-community-r.jpg
-        alt:
-    - infopic:
-        title: Support Community Efforts as One
-        subtitle: 
-        description: Read inspiring stories of unsung heroes and be a part of the movement to provide relief and support in community-led initiatives. 
-        button: Find Out How
-        url: /covid/communityefforts
-        image: /images/sgunited-community-r.jpg
-        alt: 
 ---
 
-'''
