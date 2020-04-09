@@ -31,3 +31,7 @@ permalink: /terms-of-use/
 : b. any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.
 
 2. GovTech shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:
+
+: a. your access to or use of this Website;
+: b. any loss of access to or use of this Website, howsoever caused;
+
