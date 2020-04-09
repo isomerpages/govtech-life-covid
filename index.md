@@ -1,10 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Moments of Life
+description: Stay Informed & Stay Safe In this Fight Against COVID-19
 image: /images/mol-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Home is Singapore 
