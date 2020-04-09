@@ -5,7 +5,7 @@ description: COVID-19 Resource Guide
 image: /images/mol-logo.jpg
 sections:
     - hero:
-        title: COVID-18
+        title: COVID-19
         subtitle: Resource Guide 
         background: /images/heroimage.jpg
     - infobar:
