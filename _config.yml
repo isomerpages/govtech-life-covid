@@ -19,7 +19,7 @@ colors:
       color: '#00838f'
 
 collections:
-  pages:
+  covid:
     output: true
 
 
