@@ -1,32 +1,44 @@
----
-layout: contact_us
-title: Contact Us
-permalink: /contact-us/
-agency_name: Agency Name
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+#Contact Us
+
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
+  # HQ Address [REQUIRED]
+  - title: 10 Pasir Panjang Road
+    address: "#10-01 Mapletree Business City<br>Singapore 117438"
+    find-directions: https://www.google.com.sg/maps/place/Government+Technology+Agency+of+Singapore/@1.3034259,103.7663942,13z/data=!4m8!1m2!2m1!1sgovtech!3m4!1s0x31da1bc0bcd90b45:0xf191edbdddbc919e!8m2!3d1.2742548!4d103.7999546
+  # Operating Hours [OPTIONAL]
+    operating-hours:
+      - days: Mon - Thu
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-contacts:
+      - days: Fri
+        time: 8.30am - 5.30pm
+        description: Closed on Weekends and Public Holidays
+
+# Contact Us
+# For line: If you have an email, put "(email)" after the actual email
+column:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
+    - line: +65 6211 2100
+    - line: info@tech.gov.sg (email)
+    - line: <a href="https://form.gov.sg/forms/govtech/5bda9d7df5a907000fd1b76e"> Submit a Feedback </a>
+  - title: Mainline
     content:
-    - email: careers@abc.gov.sg
----
+    - line: +65 6211 0888
+  - title: Quality Service Manager
+    content:
+    - line: +65 1800 211 0777
+    - line: qsm@tech.gov.sg (email)
+  - title: Whistleblowing Line
+    content:
+    - line: 1800-WHISTLE (1800 944 7853)
+    - line: whistleblow@tech.gov.sg (email)
+    - line: <a href="/whistleblowing-line/"> View details</a>
+  - title: Fax
+    content:
+    - line: +65 6211 2222
