@@ -16,5 +16,5 @@ locations:
 contacts:
   - title: If you have a query, feedback or wish to report a problem related to this website, please fill email us at:
     content:
-    - email: <a href='https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76e'>info@tech.gov.sg</a>
+      - email: <a href='https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76e'>info@tech.gov.sg</a>
 ---
