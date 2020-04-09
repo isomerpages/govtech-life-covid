@@ -10,4 +10,4 @@ Read inspiring stories of unsung heroes and be a part of the movement to provide
 
 1. <a href="https://www.sgunited.gov.sg/" target="_blank">One-stop portal</a> to volunteer, donate, start and share community-led initiatives in response to COVID-19. 
 
-2. Subscribe to Telegram updates, e.g., Individual news stories, community stories by <a href="https://t.me/SG_United" target="_blank">clicking here</a>.
+2. <a href="https://t.me/SG_United" target="_blank">Join</a> the official SGUnited Telegram channel to receive the latest updates.
