@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Moments of Life
-description: Stay Informed & Stay Safe In this Fight Against COVID-19
+description: COVID-19 Resource Guide
 image: /images/mol-logo.jpg
 sections:
     - hero:
