@@ -25,6 +25,4 @@ permalink: /terms-of-use/
 ### **Disclaimers against Warranties, Representations and Liability**
 
 1. This Website and the Contents are provided on an “as is” and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:
-
-1. Selected social services to support vulnerable segments of the population
-: a. This includes residential services for those with no alternative accommodation, community-based intervention for those with no alternative caregiving arrangements, community-based social services for priority cases, and public facing services for priority cases e.g. serious/urgent cases, cases requiring intensive supervision.
+: a. any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and
