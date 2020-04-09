@@ -30,17 +30,16 @@ permalink: /terms-of-use/
 
 2. GovTech shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:
 : a. your access to or use of this Website;
-: b. your access to or use of this Website;
-: c. your access to or use of this Website;
-: d. your access to or use of this Website;
-: e. your access to or use of this Website;
+: b. any loss of access to or use of this Website, howsoever caused;
+: c. any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Contents;
+: d. any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise; or
+: e. any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether GovTech has been advised of the possibility of such damage or loss.
 
 3. You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against GovTech, whether procedural or substantive in nature, in respect of any action that GovTech may or may not take in the exercise of its discretion, or in connection with GovTech’s roles as a statutory agency.
 
 ### **Indemnity**
 
 1. You hereby agree to indemnify GovTech and hold GovTech harmless from and against any and all claims, losses, liabilities, costs and expenses (including but not limited to legal costs and expenses on a full indemnity basis) made against or suffered or incurred by GovTech arising directly or indirectly out of:
-
 : a. your access to or use of this Website; or
 : b. your breach of any of these Terms of Use.
 
