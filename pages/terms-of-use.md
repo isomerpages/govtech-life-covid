@@ -29,7 +29,11 @@ permalink: /terms-of-use/
 : b. any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.
 
 2. GovTech shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:
-: b. any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.
+: a. your access to or use of this Website;
+: b. your access to or use of this Website;
+: c. your access to or use of this Website;
+: d. your access to or use of this Website;
+: e. your access to or use of this Website;
 
 3. You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against GovTech, whether procedural or substantive in nature, in respect of any action that GovTech may or may not take in the exercise of its discretion, or in connection with GovTech’s roles as a statutory agency.
 
