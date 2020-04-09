@@ -9,19 +9,6 @@ sections:
     - hero:
         title: Home is Singapore 
         background: /images/heroimage.jpg
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-            - title: Page C
-              description: Page C is important too
-              url: /privacy/
     - infobar:
         title: Knowledge makes the difference against COVID-19. Stay Informed. Stay Safe.
         description: Get a regular digest of relief measures, tools and resources, community stories and more.
