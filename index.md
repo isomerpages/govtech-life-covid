@@ -3,7 +3,6 @@ layout: homepage
 title: Moments of Life
 description: Stay Informed & Stay Safe In this Fight Against COVID-19
 image: /images/mol-logo.jpg
-permalink: /
 sections:
     - hero:
         title: Home is Singapore 
