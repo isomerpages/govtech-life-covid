@@ -1,10 +1,10 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: Moments of Life - COVID-19 Resource Guide
+url: "http://covidguide.life.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/mol_fav.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
+  primary-color: '#4372d6'
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
@@ -19,7 +19,7 @@ colors:
       color: '#00838f'
 
 collections:
-  pages:
+  covid:
     output: true
 
 
