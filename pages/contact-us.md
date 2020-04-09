@@ -2,17 +2,16 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Ministry of Trade and Industry Singapore
+agency_name: GovTech
 #agency_name: Test
 contacts:
   - title: For more enquiries, please contact us at
     content:
 #    - phone: Test
-    - phone: +65 6898 1800
-    - other: (Monday to Sunday, 8am to 8pm) 
+    - phone: +65 6211 2100
 #    - email: Test
-    - email: safedistancing@enterprisesg.gov.sg
+    - email: info@tech.gov.sg
 #    - other: Test 
-    - other: <br>We are expecting a high volume of enquiries and appreciate your understanding and patience. Kindly refrain from submitting duplicate applications to avoid further delays.  
-#    - other: For more enquiries,<br>contact us at +65 6898 1800 or drop us an email at safedistancing@enterprisesg.gov.sg   
+    - other: <br>If you have a query, feedback or wish to report a problem related to this website, please fill in the <a href=https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76e'> online form</a>.
+#    - other: For more enquiries,<br>contact us at +65 6211 2100 or drop us an email at info@tech.gov.sg   
 ---
