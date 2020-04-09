@@ -2,12 +2,30 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+### **General**
 
-#### **General Legal Information**
+1. Thank you for visiting this website (“Website”) which is owned and operated by the Government Technology Agency (“GovTech”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+2. GovTech reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+### **Proprietary Rights**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+1. This Website and the materials made available on or through this Website (“Contents”), are protected by copyright, trademark and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by GovTech.
+
+### **Restrictions on use of Contents**
+
+1. You may access and use this Website and the Contents in the manner permitted in these Terms of Use only.
+
+2. You may view, download and print the Contents for your personal, internal and non-commercial use, provided that you keep intact all accompanying copyright and other proprietary notices.
+
+3. You shall not make any deletions, additions, adjustments, alterations, adaptations or modifications to this Website or any of the Contents. You acknowledge and agree that any deletion, addition, adjustment, alteration, adaptation or modification of this Website or any of the Contents is a violation of intellectual property rights subsisting therein.
+
+4. Except as expressly permitted by these Terms of Use, you shall not reproduce, publish, upload, post, display, transmit or otherwise distribute this Website or any of the Contents in any manner or in any form, without the prior written permission of GovTech. You acknowledge and agree that any use of the Contents otherwise than in accordance with these Terms of Use is a violation of intellectual property rights subsisting therein
+
+### **Disclaimers against Warranties, Representations and Liability**
+
+1. This Website and the Contents are provided on an “as is” and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:
+
+: a. This any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and
+
+: b. any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.
