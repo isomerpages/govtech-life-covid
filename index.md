@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/MOL-logo-inline.svg
+image: /images/mol-logo.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
