@@ -5,12 +5,12 @@ description: COVID-19 Resource Guide
 image: /images/mol-logo.jpg
 sections:
     - hero:
-        title: COVID-19
-        subtitle: Resource Guide 
+        title: COVID-19 Resource Guide
+        subtitle:  
         background: /images/heroimage.jpg
     - infobar:
         title: Knowledge makes the difference. Stay informed. Stay safe.
-        description: Get a regular digest of relief measures, tools and resources, community stories and more.
+        description: Find relief measures, tools and resources, community stories and more.
     - infopic:
         title: Latest Numbers
         subtitle: 
