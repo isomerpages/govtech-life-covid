@@ -16,3 +16,19 @@ These 3 Budgets all build upon and reinforce each other. Together, they provide 
 2. <a href='https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_supplementary_budget_booklet_eng.PDF' target="_blank">Click here</a> for full details of the Resilience Budget.
 
 4. <a href='https://www.iras.gov.sg/irashome/News-and-Events/Singapore-Budget/Resilience-Budget---Support-Measures-for-Taxpayers/' target="_blank">Click here</a> for support Measures for Taxpayers by IRAS. 
+
+#### **The Resilience Budget**
+
+1. All measures in the Resilience Budget summarised in an infographic. <a href='https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_supplementary_audience_centric_Infographic.pdf' target='_blank'>Click here</a> to download.
+
+2. Full details of the Resilience Budget. <a href='https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_supplementary_budget_booklet_eng.PDF' target='_blank'>Click here</a> to download.
+
+3. <a href='https://www.iras.gov.sg/irashome/News-and-Events/Singapore-Budget/Resilience-Budget---Support-Measures-for-Taxpayers/' target='_blank'>More information</a> on support measures for taxpayers by IRAS.
+
+#### **The Solidarity Budget**
+
+1. <a href='https://www.singaporebudget.gov.sg/budget_2020/solidarity-budget/solidarity-budget-measures/solidarity-budget-booklet-eng' target='_blank'>Click here</a> for full details on the Solidarity Budget.
+
+2. All measures in the Solidarity Budget summarised in an <a href='https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_solidarity_infographic.pdf' target='_blank'>infographic</a>.
+
+3. A <a href='https://www.gov.sg/article/solidarity-budget-2020-more-support-for-workers-during-the-circuit-breaker-phase' target='_blank'>recap</a> of what workers can receive from the latest Solidarity Budget, as well as from the earlier announced Unity, Budget & Resilience Budget.
