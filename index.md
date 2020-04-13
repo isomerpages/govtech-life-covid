@@ -10,7 +10,7 @@ sections:
         background: /images/heroimage.jpg
     - infobar:
         title: Stay informed. Stay safe.
-        description: Relief measures, tools and resources, community stories and more.
+        description: Find relief measures, tools and resources, community stories and more.
     - infopic:
         title: Latest Numbers
         subtitle: 
