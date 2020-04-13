@@ -7,6 +7,10 @@ permalink: /covid/resiliencebudget
 
 These 3 Budgets all build upon and reinforce each other. Together, they provide economic measures and additional support for every Singaporean to ride through COVID-19.
 
+1. Need a helping hand to get by COVID-19? <a href="https://grants.life.gov.sg/" target='_blank'>Find</a> available grants, funds and packages.
+
+2. A <a href="https://www.singaporebudget.gov.sg/budget_2020/budget-videos#content" target='_blank'>complete</a> list of Budget videos including round-up speeches. 
+
 #### **The Unity Budget**
 
 1. Full details of Budget 2020 measures. Find out what’s in store for businesses and workers, and for families and youth. (<a href="https://www.singaporebudget.gov.sg/budget_2020/budget-measures/budget-booklet/budget-booklet-eng" target='_blank'>English</a>, <a href="https://www.singaporebudget.gov.sg/budget_2020/budget-measures/budget-booklet/budget-booklet-chi" target='_blank'>Chinese</a>, <a href="https://www.singaporebudget.gov.sg/budget_2020/budget-measures/budget-booklet/budget-booklet-mal" target='_blank'>Malay</a>, <a href="https://www.singaporebudget.gov.sg/budget_2020/budget-measures/budget-booklet/budget-booklet-tml" target='_blank'>Tamil</a>)  
@@ -31,4 +35,6 @@ These 3 Budgets all build upon and reinforce each other. Together, they provide 
 
 2. All measures in the Solidarity Budget summarised in an <a href='https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_solidarity_infographic.pdf' target='_blank'>infographic</a>.
 
-3. A <a href='https://www.gov.sg/article/solidarity-budget-2020-more-support-for-workers-during-the-circuit-breaker-phase' target='_blank'>recap</a> of what workers can receive from the latest Solidarity Budget, as well as from the earlier announced Unity, Budget & Resilience Budget.
+3. <a href='https://www.singaporebudget.gov.sg/budget_2020/solidarity-budget/solidarity-budget-statement' target='_blank'>Full transcript</a> of the Solidarity Budget speech with Annexes of the various grants and schemes.
+
+4. A <a href='https://www.gov.sg/article/solidarity-budget-2020-more-support-for-workers-during-the-circuit-breaker-phase' target='_blank'>recap</a> of what workers can receive from the latest Solidarity Budget, as well as from the earlier announced Unity, Budget & Resilience Budget.
