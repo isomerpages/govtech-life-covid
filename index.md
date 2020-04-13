@@ -5,20 +5,20 @@ description: COVID-19 Resource Guide
 image: /images/mol-logo.jpg
 sections:
     - hero:
-        title: COVID-19
-        subtitle: Resource Guide 
+        title: Your Curated Guide to COVID-19 Resources
+        subtitle:  
         background: /images/heroimage.jpg
     - infobar:
-        title: Knowledge makes the difference. Stay informed. Stay safe.
-        description: Get a regular digest of relief measures, tools and resources, community stories and more.
+        title: Stay informed. Stay safe.
+        description: Find relief measures, tools and resources, community stories and more.        
     - infopic:
-        title: Latest Numbers
+        title: The Unity, Resilience & Solidarity Budgets
         subtitle: 
-        description: Updates on the local situation with daily and overall statistics including active, discharged, critical and imported cases. Refreshed daily.
-        button: Find Out More
-        url: https://www.gov.sg/features/covid-19
-        image: /images/covid-numbers-f.jpg
-        alt: covid19
+        description: These 3 Budgets all build upon and reinforce each other. Together, they provide economic measures and additional support for every Singaporean to ride through COVID-19.
+        button: Learn More
+        url: /covid/resiliencebudget
+        image: /images/sgbudgets-f.jpg
+        alt: sgbudgets
     - infopic:
         title: Health Information & Resources
         subtitle: 
@@ -28,6 +28,14 @@ sections:
         image: /images/health-resources-f.jpg
         alt: healthinformation
     - infopic:
+        title: Latest Numbers
+        subtitle: 
+        description: Updates on the local situation with daily and overall statistics including active, discharged, critical and imported cases. Refreshed daily.
+        button: Find Out More
+        url: https://www.gov.sg/features/covid-19
+        image: /images/covid-numbers-f.jpg
+        alt: covid19
+    - infopic:
         title: Our Digital Response
         subtitle: 
         description: Information at your fingertips. From mask collection to finding a doctor to an online symptom checker and more. 
@@ -35,14 +43,6 @@ sections:
         url: /covid/digitalresponse
         image: /images/digital-response-f.jpg
         alt: digitalresponse
-    - infopic:
-        title: The Unity, Resilience & Solidarity Budgets
-        subtitle: 
-        description: These 3 Budgets all build upon and reinforce each other. Together, they provide economic measures and additional support for every Singaporean to ride through COVID-19.
-        button: Learn More
-        url: /covid/resiliencebudget
-        image: /images/sgbudgets-f.jpg
-        alt: sgbudgets
     - infopic:
         title: Shop Online & Have Essentials Delivered
         subtitle: 
