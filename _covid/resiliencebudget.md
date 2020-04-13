@@ -7,7 +7,7 @@ permalink: /covid/resiliencebudget
 
 These 3 Budgets all build upon and reinforce each other. Together, they provide economic measures and additional support for every Singaporean to ride through COVID-19.
 
-1. Need a helping hand to get by COVID-19? <a href="https://grants.life.gov.sg/" target='_blank'>Find</a> available grants, funds and packages.
+1. Need a helping hand to get by COVID-19? Find available grants, funds and packages by <a href="https://grants.life.gov.sg/" target='_blank'>clicking here</a>.
 
 2. A <a href="https://www.singaporebudget.gov.sg/budget_2020/budget-videos#content" target='_blank'>complete</a> list of Budget videos including round-up speeches. 
 
