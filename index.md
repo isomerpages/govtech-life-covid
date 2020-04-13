@@ -5,7 +5,7 @@ description: COVID-19 Resource Guide
 image: /images/mol-logo.jpg
 sections:
     - hero:
-        title: Your Guide to COVID-19 Resources
+        title: Your Curated Guide to COVID-19 Resources
         subtitle:  
         background: /images/heroimage.jpg
     - infobar:
