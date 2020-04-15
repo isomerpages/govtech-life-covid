@@ -17,7 +17,7 @@ These 3 Budgets all build upon and reinforce each other. Together, they provide 
 
 2. All measures in the Unity Budget summarised in an infographic. <a href="https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_budget_summary.pdf" target='_blank'>Click here</a>.
 
-2. <a href='https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_supplementary_budget_booklet_eng.PDF' target="_blank">Click here</a> for full details of the Resilience Budget.
+2. <a href='https://www.singaporebudget.gov.sg/budget_2020/budget-speech' target="_blank">Full transcript</a> of the Unity Budget speech with Annexes of the various grants and schemes.
 
 
 #### **The Resilience Budget**
@@ -27,6 +27,8 @@ These 3 Budgets all build upon and reinforce each other. Together, they provide 
 2. Full details of the Resilience Budget. <a href='https://www.singaporebudget.gov.sg/docs/default-source/budget_2020/download/pdf/fy2020_supplementary_budget_booklet_eng.PDF' target='_blank'>Click here</a> to download.
 
 3. <a href='https://www.iras.gov.sg/irashome/News-and-Events/Singapore-Budget/Resilience-Budget-and-Solidarity-Budget---Support-Measures-for-Taxpayers/' target="_blank">Click here</a> for support measures for taxpayers by IRAS.
+
+4. <a href='https://www.singaporebudget.gov.sg/budget_2020/resilience-budget/supplementary-budget-statement' target="_blank">Full transcript</a> of the Resilience Budget speech with Annexes of the various grants and schemes.
 
 #### **The Solidarity Budget**
 
