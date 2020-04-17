@@ -16,3 +16,5 @@ A library of helpful guidelines and advisories. Knowing what to do can help you 
 4. <a href='https://www.gov.sg/article/covid-19-resources#posters' target="_blank">Click here</a> for posters on good hygiene practices, advisories to do's and don'ts - mostly available in 4 official languages.
 
 5. <a href='https://www.gov.sg/article/covid-19-resources#videos' target="_blank">Click here</a> for informational videos available in 4 official languages & dialects.
+
+6. <a href='https://www.gov.sg/article/covid-19-resources#videos' target="_blank">Order</a> your medication from home through these institutions. 
