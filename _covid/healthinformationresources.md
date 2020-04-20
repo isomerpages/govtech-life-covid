@@ -17,4 +17,4 @@ A library of helpful guidelines and advisories. Knowing what to do can help you 
 
 5. <a href='https://www.gov.sg/article/covid-19-resources#videos' target="_blank">Click here</a> for informational videos available in 4 official languages & dialects.
 
-6. <a href='https://www.gov.sg/article/covid-19-resources#videos' target="_blank">Order</a> your medication from home through these institutions. 
+6. <a href='https://www.pss.org.sg/sites/default/files/kym/pdf/how_to_order_your_medicines_from_home_-_info_for_pss_web.pdf' target="_blank">Order</a> your medication from home through these institutions. 
