@@ -32,8 +32,8 @@ If you need someone to talk to about COVID-19's impact on your personal and fami
   - Project StART (+65 6476-1482)
   - TRANS SAFE Centre (+65 6449-9088)
 
-##### Counselling
+#### Counselling
   - TOUCHline (Counselling) – 1800 377 2252
 
-##### For all other helplines
+#### For all other helplines
   - Visit [go.gov.sg/hotlines](go.gov.sg/hotlines)
