@@ -8,6 +8,7 @@ permalink: /covid/hotlines
 Over 300 psychologists, counsellors, social workers, psychiatrists, and public officers trained in psychological first aid across 50 governement agencies and organisations man the National Care Hotline. Here are some useful numbers to call if you are in need of help. 
 
 #### National CARE Hotline
+
 If you need someone to talk to about COVID-19's impact on your personal and family life, on your job and livelihood, and your future. 
 
   - National CARE hotline (+65 6202-6868)
