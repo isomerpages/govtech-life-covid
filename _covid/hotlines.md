@@ -1,10 +1,10 @@
 ---
-title: Hotlines for Mental Support & Domestic Abuse
+title: Hotlines for Support & Domestic Abuse
 permalink: /covid/hotlines
 breadcrumb: Useful hotlines
 ---
 
-### **Hotlines for Mental Support & Domestic Abuse**
+### **Hotlines for Support & Domestic Abuse**
 
 Over 300 psychologists, counsellors, social workers, psychiatrists, and public officers trained in psychological first aid across 50 governement agencies and organisations man the National Care Hotline. Here are some useful numbers to call if you are in need of help. 
 
