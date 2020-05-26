@@ -20,6 +20,14 @@ sections:
         image: /images/sgbudgets-f.jpg
         alt: sgbudgets
     - infopic:
+        title: 24/7 Support Hotlines
+        subtitle: 
+        description: National Care Hotline manned by over 300 trained personnel across government agencies that offer psychological first aid. Useful numbers to call if you are in need of help.
+        button: More
+        url: /covid/hotlines
+        image: /images/hotline-r.jpg
+        alt: hotlinesupport
+    - infopic:
         title: Health Information & Resources
         subtitle: 
         description: A library of helpful guidelines and advisories. Knowing what to do can help you and your loved ones stay safer.
