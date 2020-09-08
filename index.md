@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Moments of Life
+title: COVID-19 Resource Guide
 description: COVID-19 Resource Guide
-image: /images/mol-logo.jpg
+image: /images/lifesg-logo.jpg
 sections:
     - hero:
         title: Your Curated Guide to COVID-19 Resources
