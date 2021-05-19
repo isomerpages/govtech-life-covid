@@ -1,0 +1,13 @@
+collections:
+  covid:
+    output: true
+    order:
+      - border-control-precautionary-measures.md
+      - health-information-resources.md
+      - hotlines-for-support-domestic-abuse.md
+      - latest-numbers.md
+      - keeping-preschoolers-students-safe.md
+      - our-digital-response.md
+      - support-community-efforts-as-one.md
+      - shop-online-have-essentials-delivered.md
+      - the-unity-resilience-solidarity-budgets.md
